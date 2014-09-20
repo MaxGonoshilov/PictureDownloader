@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PictureDownloader</string>
+    <string name="title_main_activity">Picture downloader</string>
+    <string name="status_label">Status:</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_loading">Downloading</string>
+    <string name="status_loaded">Downloaded</string>
+    <string name="button_download_title">Download</string>
+    <string name="button_open_title">Open</string>
+    <string name="downloading_failed_toast">Downloading failed. Try again.</string>
+    <string name="picture_url">http://upload.wikimedia.org/wikipedia/commons/4/45/Vladimir_Putin_-_2006.jpg</string>
+</resources>
